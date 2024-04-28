@@ -1,0 +1,105 @@
+#main-wrapper {
+	
+	width=500px;
+	margin: 0 auto;
+	
+	padding:5px;
+	border-radius:10px;
+	border: 2px #130f40;
+}
+
+
+.myform{
+	
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues{
+	
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login_button
+{
+	margin-top:10px;
+	background-color:#27ae60;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+#register_button
+{
+	margin-bottom:20px;
+	margin-top:10px;
+    background-color:#1B9CFC;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+} 
+#signup_button
+{
+	margin-top:10px;
+	background-color:#182C61;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+#back_button
+{
+	margin-bottom:20px;
+	margin-top:10px;
+    background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+} 
+#logout_button
+{
+	margin-top:10px;
+	background-color:#182C61;
+	padding:5px;
+	color:white;
+	width:50%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	margin-bottom:30px;
+}
+#confirm_button
+{
+	margin-bottom:20px;
+	margin-top:10px;
+    background-color:#1B9CFC;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+} 
+
+.form button{
+	font-family:  "Robot", sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	border: 0;
+	padding15px;
+	colour: #FFFFFF;
+	font-size: 14px;
+	cursor: pointers;
+}
